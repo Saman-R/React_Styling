@@ -3,6 +3,7 @@
 import {View, Text, SafeAreaView, ScrollView} from 'react-native';
 import React from 'react';
 import FlatCard from './Component/FlatCard';
+import ElevatedCard from './Component/ElevatedCard';
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
       <ScrollView>
         <Text> </Text>
         <FlatCard />
+        <ElevatedCard></ElevatedCard>
       </ScrollView>
     </SafeAreaView>
   );
