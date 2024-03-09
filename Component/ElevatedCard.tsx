@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     margin: 8
   },
   cardElevated:{
-    backgroundColor: '#CAD5E2',
+    backgroundColor: '#588157',
     elevation: 5,
     shadowColor: '#50DBB4',
     shadowOpacity: 0.9,
